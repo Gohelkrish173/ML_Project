@@ -1,0 +1,24 @@
+Gender: {'Female': 0, 'Male': 1}
+Smoking_Status: {'Non-Smoker': 0, 'Smoker': 1}
+Hypertension: {'No': 0, 'Yes': 1}
+Diabetes: {'No': 0, 'Yes': 1}
+Obesity: {'No': 0, 'Yes': 1}
+Cholesterol_Level: {'High': 0, 'Low': 1, 'Normal': 2}
+Air_Pollution_Exposure: {'High': 0, 'Low': 1, 'Medium': 2}
+Physical_Activity: {'High': 0, 'Low': 1, 'Medium': 2}
+Diet_Score: {'Healthy': 0, 'Moderate': 1, 'Poor': 2}
+Stress_Level: {'High': 0, 'Low': 1, 'Medium': 2}
+Alcohol_Consumption: {'No': 0, 'Yes': 1}
+Family_History_CVD: {'No': 0, 'Yes': 1}
+Healthcare_Access: {'Good': 0, 'Moderate': 1, 'Poor': 2}
+Rural_or_Urban: {'Rural': 0, 'Urban': 1}
+Region: {'Central': 0, 'Eastern': 1, 'Northern': 2, 'Southern': 3, 'Western': 4}
+Province: {'Beijing': 0, 'Gansu': 1, 'Guangdong': 2, 'Henan': 3, 'Qinghai': 4, 'Shandong': 5, 'Shanghai': 6, 'Sichuan': 7}
+Hospital_Availability: {'High': 0, 'Low': 1, 'Medium': 2}
+TCM_Use: {'No': 0, 'Yes': 1}
+Employment_Status: {'Employed': 0, 'Retired': 1, 'Unemployed': 2}
+Education_Level: {'Higher': 0, 'Primary': 1, 'Secondary': 2, nan: 3}
+Income_Level: {'High': 0, 'Low': 1, 'Middle': 2}
+Chronic_Kidney_Disease: {'No': 0, 'Yes': 1}
+Previous_Heart_Attack: {'No': 0, 'Yes': 1}
+Heart_Attack: {'No': 0, 'Yes': 1}
